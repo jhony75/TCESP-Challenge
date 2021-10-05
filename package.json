@@ -36,6 +36,14 @@
         "rules": {
           "import/no-anonymous-default-export": "off"
         }
+      },
+      {
+        "files": [
+          "**/*.stories.*"
+        ],
+        "rules": {
+          "import/no-anonymous-default-export": "off"
+        }
       }
     ]
   },
@@ -61,7 +69,6 @@
     "@storybook/react": "^6.3.9",
     "css-loader": "^6.3.0",
     "sass-loader": "^12.1.0",
-    "storybook-css-modules-preset": "^1.1.1",
     "style-loader": "^3.3.0"
   }
 }
