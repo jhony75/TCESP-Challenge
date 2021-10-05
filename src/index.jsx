@@ -1,10 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.scss';
+import Expenditure from './api/Expenditure'
 
 ReactDOM.render(
   <React.StrictMode>
-    <h1>Hello World</h1>
+    <Expenditure />
   </React.StrictMode>,
   document.getElementById('root')
 );
