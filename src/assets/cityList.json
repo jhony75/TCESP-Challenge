@@ -1,0 +1,2582 @@
+[
+  {
+    "municipio_extenso": "Adamantina",
+    "Código IBGE": 3500105
+  },
+  {
+    "municipio_extenso": "Adolfo",
+    "Código IBGE": 3500204
+  },
+  {
+    "municipio_extenso": "Aguaí",
+    "Código IBGE": 3500303
+  },
+  {
+    "municipio_extenso": "Águas da Prata",
+    "Código IBGE": 3500402
+  },
+  {
+    "municipio_extenso": "Águas de Lindóia",
+    "Código IBGE": 3500501
+  },
+  {
+    "municipio_extenso": "Águas de Santa Bárbara",
+    "Código IBGE": 3500550
+  },
+  {
+    "municipio_extenso": "Águas de São Pedro",
+    "Código IBGE": 3500600
+  },
+  {
+    "municipio_extenso": "Agudos",
+    "Código IBGE": 3500709
+  },
+  {
+    "municipio_extenso": "Alambari",
+    "Código IBGE": 3500758
+  },
+  {
+    "municipio_extenso": "Alfredo Marcondes",
+    "Código IBGE": 3500808
+  },
+  {
+    "municipio_extenso": "Altair",
+    "Código IBGE": 3500907
+  },
+  {
+    "municipio_extenso": "Altinópolis",
+    "Código IBGE": 3501004
+  },
+  {
+    "municipio_extenso": "Alto Alegre",
+    "Código IBGE": 3501103
+  },
+  {
+    "municipio_extenso": "Alumínio",
+    "Código IBGE": 3501152
+  },
+  {
+    "municipio_extenso": "Álvares Florence",
+    "Código IBGE": 3501202
+  },
+  {
+    "municipio_extenso": "Álvares Machado",
+    "Código IBGE": 3501301
+  },
+  {
+    "municipio_extenso": "Álvaro de Carvalho",
+    "Código IBGE": 3501400
+  },
+  {
+    "municipio_extenso": "Alvinlândia",
+    "Código IBGE": 3501509
+  },
+  {
+    "municipio_extenso": "Americana",
+    "Código IBGE": 3501608
+  },
+  {
+    "municipio_extenso": "Américo Brasiliense",
+    "Código IBGE": 3501707
+  },
+  {
+    "municipio_extenso": "Américo de Campos",
+    "Código IBGE": 3501806
+  },
+  {
+    "municipio_extenso": "Amparo",
+    "Código IBGE": 3501905
+  },
+  {
+    "municipio_extenso": "Analândia",
+    "Código IBGE": 3502002
+  },
+  {
+    "municipio_extenso": "Andradina",
+    "Código IBGE": 3502101
+  },
+  {
+    "municipio_extenso": "Angatuba",
+    "Código IBGE": 3502200
+  },
+  {
+    "municipio_extenso": "Anhembi",
+    "Código IBGE": 3502309
+  },
+  {
+    "municipio_extenso": "Anhumas",
+    "Código IBGE": 3502408
+  },
+  {
+    "municipio_extenso": "Aparecida",
+    "Código IBGE": 3502507
+  },
+  {
+    "municipio_extenso": "Aparecida d'Oeste",
+    "Código IBGE": 3502606
+  },
+  {
+    "municipio_extenso": "Apiaí",
+    "Código IBGE": 3502705
+  },
+  {
+    "municipio_extenso": "Araçariguama",
+    "Código IBGE": 3502754
+  },
+  {
+    "municipio_extenso": "Araçatuba",
+    "Código IBGE": 3502804
+  },
+  {
+    "municipio_extenso": "Araçoiaba da Serra",
+    "Código IBGE": 3502903
+  },
+  {
+    "municipio_extenso": "Aramina",
+    "Código IBGE": 3503000
+  },
+  {
+    "municipio_extenso": "Arandu",
+    "Código IBGE": 3503109
+  },
+  {
+    "municipio_extenso": "Arapeí",
+    "Código IBGE": 3503158
+  },
+  {
+    "municipio_extenso": "Araraquara",
+    "Código IBGE": 3503208
+  },
+  {
+    "municipio_extenso": "Araras",
+    "Código IBGE": 3503307
+  },
+  {
+    "municipio_extenso": "Arco-Íris",
+    "Código IBGE": 3503356
+  },
+  {
+    "municipio_extenso": "Arealva",
+    "Código IBGE": 3503406
+  },
+  {
+    "municipio_extenso": "Areias",
+    "Código IBGE": 3503505
+  },
+  {
+    "municipio_extenso": "Areiópolis",
+    "Código IBGE": 3503604
+  },
+  {
+    "municipio_extenso": "Ariranha",
+    "Código IBGE": 3503703
+  },
+  {
+    "municipio_extenso": "Artur Nogueira",
+    "Código IBGE": 3503802
+  },
+  {
+    "municipio_extenso": "Arujá",
+    "Código IBGE": 3503901
+  },
+  {
+    "municipio_extenso": "Aspásia",
+    "Código IBGE": 3503950
+  },
+  {
+    "municipio_extenso": "Assis",
+    "Código IBGE": 3504008
+  },
+  {
+    "municipio_extenso": "Atibaia",
+    "Código IBGE": 3504107
+  },
+  {
+    "municipio_extenso": "Auriflama",
+    "Código IBGE": 3504206
+  },
+  {
+    "municipio_extenso": "Avaí",
+    "Código IBGE": 3504305
+  },
+  {
+    "municipio_extenso": "Avanhandava",
+    "Código IBGE": 3504404
+  },
+  {
+    "municipio_extenso": "Avaré",
+    "Código IBGE": 3504503
+  },
+  {
+    "municipio_extenso": "Bady Bassitt",
+    "Código IBGE": 3504602
+  },
+  {
+    "municipio_extenso": "Balbinos",
+    "Código IBGE": 3504701
+  },
+  {
+    "municipio_extenso": "Bálsamo",
+    "Código IBGE": 3504800
+  },
+  {
+    "municipio_extenso": "Bananal",
+    "Código IBGE": 3504909
+  },
+  {
+    "municipio_extenso": "Barão de Antonina",
+    "Código IBGE": 3505005
+  },
+  {
+    "municipio_extenso": "Barbosa",
+    "Código IBGE": 3505104
+  },
+  {
+    "municipio_extenso": "Bariri",
+    "Código IBGE": 3505203
+  },
+  {
+    "municipio_extenso": "Barra Bonita",
+    "Código IBGE": 3505302
+  },
+  {
+    "municipio_extenso": "Barra do Chapéu",
+    "Código IBGE": 3505351
+  },
+  {
+    "municipio_extenso": "Barra do Turvo",
+    "Código IBGE": 3505401
+  },
+  {
+    "municipio_extenso": "Barretos",
+    "Código IBGE": 3505500
+  },
+  {
+    "municipio_extenso": "Barrinha",
+    "Código IBGE": 3505609
+  },
+  {
+    "municipio_extenso": "Barueri",
+    "Código IBGE": 3505708
+  },
+  {
+    "municipio_extenso": "Bastos",
+    "Código IBGE": 3505807
+  },
+  {
+    "municipio_extenso": "Batatais",
+    "Código IBGE": 3505906
+  },
+  {
+    "municipio_extenso": "Bauru",
+    "Código IBGE": 3506003
+  },
+  {
+    "municipio_extenso": "Bebedouro",
+    "Código IBGE": 3506102
+  },
+  {
+    "municipio_extenso": "Bento de Abreu",
+    "Código IBGE": 3506201
+  },
+  {
+    "municipio_extenso": "Bernardino de Campos",
+    "Código IBGE": 3506300
+  },
+  {
+    "municipio_extenso": "Bertioga",
+    "Código IBGE": 3506359
+  },
+  {
+    "municipio_extenso": "Bilac",
+    "Código IBGE": 3506409
+  },
+  {
+    "municipio_extenso": "Birigui",
+    "Código IBGE": 3506508
+  },
+  {
+    "municipio_extenso": "Biritiba Mirim",
+    "Código IBGE": 3506607
+  },
+  {
+    "municipio_extenso": "Boa Esperança do Sul",
+    "Código IBGE": 3506706
+  },
+  {
+    "municipio_extenso": "Bocaina",
+    "Código IBGE": 3506805
+  },
+  {
+    "municipio_extenso": "Bofete",
+    "Código IBGE": 3506904
+  },
+  {
+    "municipio_extenso": "Boituva",
+    "Código IBGE": 3507001
+  },
+  {
+    "municipio_extenso": "Bom Jesus dos Perdões",
+    "Código IBGE": 3507100
+  },
+  {
+    "municipio_extenso": "Bom Sucesso de Itararé",
+    "Código IBGE": 3507159
+  },
+  {
+    "municipio_extenso": "Borá",
+    "Código IBGE": 3507209
+  },
+  {
+    "municipio_extenso": "Boracéia",
+    "Código IBGE": 3507308
+  },
+  {
+    "municipio_extenso": "Borborema",
+    "Código IBGE": 3507407
+  },
+  {
+    "municipio_extenso": "Borebi",
+    "Código IBGE": 3507456
+  },
+  {
+    "municipio_extenso": "Botucatu",
+    "Código IBGE": 3507506
+  },
+  {
+    "municipio_extenso": "Bragança Paulista",
+    "Código IBGE": 3507605
+  },
+  {
+    "municipio_extenso": "Braúna",
+    "Código IBGE": 3507704
+  },
+  {
+    "municipio_extenso": "Brejo Alegre",
+    "Código IBGE": 3507753
+  },
+  {
+    "municipio_extenso": "Brodowski",
+    "Código IBGE": 3507803
+  },
+  {
+    "municipio_extenso": "Brotas",
+    "Código IBGE": 3507902
+  },
+  {
+    "municipio_extenso": "Buri",
+    "Código IBGE": 3508009
+  },
+  {
+    "municipio_extenso": "Buritama",
+    "Código IBGE": 3508108
+  },
+  {
+    "municipio_extenso": "Buritizal",
+    "Código IBGE": 3508207
+  },
+  {
+    "municipio_extenso": "Cabrália Paulista",
+    "Código IBGE": 3508306
+  },
+  {
+    "municipio_extenso": "Cabreúva",
+    "Código IBGE": 3508405
+  },
+  {
+    "municipio_extenso": "Caçapava",
+    "Código IBGE": 3508504
+  },
+  {
+    "municipio_extenso": "Cachoeira Paulista",
+    "Código IBGE": 3508603
+  },
+  {
+    "municipio_extenso": "Caconde",
+    "Código IBGE": 3508702
+  },
+  {
+    "municipio_extenso": "Cafelândia",
+    "Código IBGE": 3508801
+  },
+  {
+    "municipio_extenso": "Caiabu",
+    "Código IBGE": 3508900
+  },
+  {
+    "municipio_extenso": "Caieiras",
+    "Código IBGE": 3509007
+  },
+  {
+    "municipio_extenso": "Caiuá",
+    "Código IBGE": 3509106
+  },
+  {
+    "municipio_extenso": "Cajamar",
+    "Código IBGE": 3509205
+  },
+  {
+    "municipio_extenso": "Cajati",
+    "Código IBGE": 3509254
+  },
+  {
+    "municipio_extenso": "Cajobi",
+    "Código IBGE": 3509304
+  },
+  {
+    "municipio_extenso": "Cajuru",
+    "Código IBGE": 3509403
+  },
+  {
+    "municipio_extenso": "Campina do Monte Alegre",
+    "Código IBGE": 3509452
+  },
+  {
+    "municipio_extenso": "Campinas",
+    "Código IBGE": 3509502
+  },
+  {
+    "municipio_extenso": "Campo Limpo Paulista",
+    "Código IBGE": 3509601
+  },
+  {
+    "municipio_extenso": "Campos Novos Paulista",
+    "Código IBGE": 3509809
+  },
+  {
+    "municipio_extenso": "Campos do Jordão",
+    "Código IBGE": 3509700
+  },
+  {
+    "municipio_extenso": "Cananéia",
+    "Código IBGE": 3509908
+  },
+  {
+    "municipio_extenso": "Canas",
+    "Código IBGE": 3509957
+  },
+  {
+    "municipio_extenso": "Cândido Mota",
+    "Código IBGE": 3510005
+  },
+  {
+    "municipio_extenso": "Cândido Rodrigues",
+    "Código IBGE": 3510104
+  },
+  {
+    "municipio_extenso": "Canitar",
+    "Código IBGE": 3510153
+  },
+  {
+    "municipio_extenso": "Capão Bonito",
+    "Código IBGE": 3510203
+  },
+  {
+    "municipio_extenso": "Capela do Alto",
+    "Código IBGE": 3510302
+  },
+  {
+    "municipio_extenso": "Capivari",
+    "Código IBGE": 3510401
+  },
+  {
+    "municipio_extenso": "Caraguatatuba",
+    "Código IBGE": 3510500
+  },
+  {
+    "municipio_extenso": "Carapicuíba",
+    "Código IBGE": 3510609
+  },
+  {
+    "municipio_extenso": "Cardoso",
+    "Código IBGE": 3510708
+  },
+  {
+    "municipio_extenso": "Casa Branca",
+    "Código IBGE": 3510807
+  },
+  {
+    "municipio_extenso": "Cássia dos Coqueiros",
+    "Código IBGE": 3510906
+  },
+  {
+    "municipio_extenso": "Castilho",
+    "Código IBGE": 3511003
+  },
+  {
+    "municipio_extenso": "Catanduva",
+    "Código IBGE": 3511102
+  },
+  {
+    "municipio_extenso": "Catiguá",
+    "Código IBGE": 3511201
+  },
+  {
+    "municipio_extenso": "Cedral",
+    "Código IBGE": 3511300
+  },
+  {
+    "municipio_extenso": "Cerqueira César",
+    "Código IBGE": 3511409
+  },
+  {
+    "municipio_extenso": "Cerquilho",
+    "Código IBGE": 3511508
+  },
+  {
+    "municipio_extenso": "Cesário Lange",
+    "Código IBGE": 3511607
+  },
+  {
+    "municipio_extenso": "Charqueada",
+    "Código IBGE": 3511706
+  },
+  {
+    "municipio_extenso": "Chavantes",
+    "Código IBGE": 3557204
+  },
+  {
+    "municipio_extenso": "Clementina",
+    "Código IBGE": 3511904
+  },
+  {
+    "municipio_extenso": "Colina",
+    "Código IBGE": 3512001
+  },
+  {
+    "municipio_extenso": "Colômbia",
+    "Código IBGE": 3512100
+  },
+  {
+    "municipio_extenso": "Conchal",
+    "Código IBGE": 3512209
+  },
+  {
+    "municipio_extenso": "Conchas",
+    "Código IBGE": 3512308
+  },
+  {
+    "municipio_extenso": "Cordeirópolis",
+    "Código IBGE": 3512407
+  },
+  {
+    "municipio_extenso": "Coroados",
+    "Código IBGE": 3512506
+  },
+  {
+    "municipio_extenso": "Coronel Macedo",
+    "Código IBGE": 3512605
+  },
+  {
+    "municipio_extenso": "Corumbataí",
+    "Código IBGE": 3512704
+  },
+  {
+    "municipio_extenso": "Cosmópolis",
+    "Código IBGE": 3512803
+  },
+  {
+    "municipio_extenso": "Cosmorama",
+    "Código IBGE": 3512902
+  },
+  {
+    "municipio_extenso": "Cotia",
+    "Código IBGE": 3513009
+  },
+  {
+    "municipio_extenso": "Cravinhos",
+    "Código IBGE": 3513108
+  },
+  {
+    "municipio_extenso": "Cristais Paulista",
+    "Código IBGE": 3513207
+  },
+  {
+    "municipio_extenso": "Cruzália",
+    "Código IBGE": 3513306
+  },
+  {
+    "municipio_extenso": "Cruzeiro",
+    "Código IBGE": 3513405
+  },
+  {
+    "municipio_extenso": "Cubatão",
+    "Código IBGE": 3513504
+  },
+  {
+    "municipio_extenso": "Cunha",
+    "Código IBGE": 3513603
+  },
+  {
+    "municipio_extenso": "Descalvado",
+    "Código IBGE": 3513702
+  },
+  {
+    "municipio_extenso": "Diadema",
+    "Código IBGE": 3513801
+  },
+  {
+    "municipio_extenso": "Dirce Reis",
+    "Código IBGE": 3513850
+  },
+  {
+    "municipio_extenso": "Divinolândia",
+    "Código IBGE": 3513900
+  },
+  {
+    "municipio_extenso": "Dobrada",
+    "Código IBGE": 3514007
+  },
+  {
+    "municipio_extenso": "Dois Córregos",
+    "Código IBGE": 3514106
+  },
+  {
+    "municipio_extenso": "Dolcinópolis",
+    "Código IBGE": 3514205
+  },
+  {
+    "municipio_extenso": "Dourado",
+    "Código IBGE": 3514304
+  },
+  {
+    "municipio_extenso": "Dracena",
+    "Código IBGE": 3514403
+  },
+  {
+    "municipio_extenso": "Duartina",
+    "Código IBGE": 3514502
+  },
+  {
+    "municipio_extenso": "Dumont",
+    "Código IBGE": 3514601
+  },
+  {
+    "municipio_extenso": "Echaporã",
+    "Código IBGE": 3514700
+  },
+  {
+    "municipio_extenso": "Eldorado",
+    "Código IBGE": 3514809
+  },
+  {
+    "municipio_extenso": "Elias Fausto",
+    "Código IBGE": 3514908
+  },
+  {
+    "municipio_extenso": "Elisiário",
+    "Código IBGE": 3514924
+  },
+  {
+    "municipio_extenso": "Embaúba",
+    "Código IBGE": 3514957
+  },
+  {
+    "municipio_extenso": "Embu das Artes",
+    "Código IBGE": 3515004
+  },
+  {
+    "municipio_extenso": "Embu-Guaçu",
+    "Código IBGE": 3515103
+  },
+  {
+    "municipio_extenso": "Emilianópolis",
+    "Código IBGE": 3515129
+  },
+  {
+    "municipio_extenso": "Engenheiro Coelho",
+    "Código IBGE": 3515152
+  },
+  {
+    "municipio_extenso": "Espírito Santo do Pinhal",
+    "Código IBGE": 3515186
+  },
+  {
+    "municipio_extenso": "Espírito Santo do Turvo",
+    "Código IBGE": 3515194
+  },
+  {
+    "municipio_extenso": "Estiva Gerbi",
+    "Código IBGE": 3557303
+  },
+  {
+    "municipio_extenso": "Estrela d'Oeste",
+    "Código IBGE": 3515202
+  },
+  {
+    "municipio_extenso": "Estrela do Norte",
+    "Código IBGE": 3515301
+  },
+  {
+    "municipio_extenso": "Euclides da Cunha Paulista",
+    "Código IBGE": 3515350
+  },
+  {
+    "municipio_extenso": "Fartura",
+    "Código IBGE": 3515400
+  },
+  {
+    "municipio_extenso": "Fernando Prestes",
+    "Código IBGE": 3515608
+  },
+  {
+    "municipio_extenso": "Fernandópolis",
+    "Código IBGE": 3515509
+  },
+  {
+    "municipio_extenso": "Fernão",
+    "Código IBGE": 3515657
+  },
+  {
+    "municipio_extenso": "Ferraz de Vasconcelos",
+    "Código IBGE": 3515707
+  },
+  {
+    "municipio_extenso": "Flora Rica",
+    "Código IBGE": 3515806
+  },
+  {
+    "municipio_extenso": "Floreal",
+    "Código IBGE": 3515905
+  },
+  {
+    "municipio_extenso": "Flórida Paulista",
+    "Código IBGE": 3516002
+  },
+  {
+    "municipio_extenso": "Florínea",
+    "Código IBGE": 3516101
+  },
+  {
+    "municipio_extenso": "Franca",
+    "Código IBGE": 3516200
+  },
+  {
+    "municipio_extenso": "Francisco Morato",
+    "Código IBGE": 3516309
+  },
+  {
+    "municipio_extenso": "Franco da Rocha",
+    "Código IBGE": 3516408
+  },
+  {
+    "municipio_extenso": "Gabriel Monteiro",
+    "Código IBGE": 3516507
+  },
+  {
+    "municipio_extenso": "Gália",
+    "Código IBGE": 3516606
+  },
+  {
+    "municipio_extenso": "Garça",
+    "Código IBGE": 3516705
+  },
+  {
+    "municipio_extenso": "Gastão Vidigal",
+    "Código IBGE": 3516804
+  },
+  {
+    "municipio_extenso": "Gavião Peixoto",
+    "Código IBGE": 3516853
+  },
+  {
+    "municipio_extenso": "General Salgado",
+    "Código IBGE": 3516903
+  },
+  {
+    "municipio_extenso": "Getulina",
+    "Código IBGE": 3517000
+  },
+  {
+    "municipio_extenso": "Glicério",
+    "Código IBGE": 3517109
+  },
+  {
+    "municipio_extenso": "Guaiçara",
+    "Código IBGE": 3517208
+  },
+  {
+    "municipio_extenso": "Guaimbê",
+    "Código IBGE": 3517307
+  },
+  {
+    "municipio_extenso": "Guaíra",
+    "Código IBGE": 3517406
+  },
+  {
+    "municipio_extenso": "Guapiaçu",
+    "Código IBGE": 3517505
+  },
+  {
+    "municipio_extenso": "Guapiara",
+    "Código IBGE": 3517604
+  },
+  {
+    "municipio_extenso": "Guará",
+    "Código IBGE": 3517703
+  },
+  {
+    "municipio_extenso": "Guaraçaí",
+    "Código IBGE": 3517802
+  },
+  {
+    "municipio_extenso": "Guaraci",
+    "Código IBGE": 3517901
+  },
+  {
+    "municipio_extenso": "Guarani d'Oeste",
+    "Código IBGE": 3518008
+  },
+  {
+    "municipio_extenso": "Guarantã",
+    "Código IBGE": 3518107
+  },
+  {
+    "municipio_extenso": "Guararapes",
+    "Código IBGE": 3518206
+  },
+  {
+    "municipio_extenso": "Guararema",
+    "Código IBGE": 3518305
+  },
+  {
+    "municipio_extenso": "Guaratinguetá",
+    "Código IBGE": 3518404
+  },
+  {
+    "municipio_extenso": "Guareí",
+    "Código IBGE": 3518503
+  },
+  {
+    "municipio_extenso": "Guariba",
+    "Código IBGE": 3518602
+  },
+  {
+    "municipio_extenso": "Guarujá",
+    "Código IBGE": 3518701
+  },
+  {
+    "municipio_extenso": "Guarulhos",
+    "Código IBGE": 3518800
+  },
+  {
+    "municipio_extenso": "Guatapará",
+    "Código IBGE": 3518859
+  },
+  {
+    "municipio_extenso": "Guzolândia",
+    "Código IBGE": 3518909
+  },
+  {
+    "municipio_extenso": "Herculândia",
+    "Código IBGE": 3519006
+  },
+  {
+    "municipio_extenso": "Holambra",
+    "Código IBGE": 3519055
+  },
+  {
+    "municipio_extenso": "Hortolândia",
+    "Código IBGE": 3519071
+  },
+  {
+    "municipio_extenso": "Iacanga",
+    "Código IBGE": 3519105
+  },
+  {
+    "municipio_extenso": "Iacri",
+    "Código IBGE": 3519204
+  },
+  {
+    "municipio_extenso": "Iaras",
+    "Código IBGE": 3519253
+  },
+  {
+    "municipio_extenso": "Ibaté",
+    "Código IBGE": 3519303
+  },
+  {
+    "municipio_extenso": "Ibirá",
+    "Código IBGE": 3519402
+  },
+  {
+    "municipio_extenso": "Ibirarema",
+    "Código IBGE": 3519501
+  },
+  {
+    "municipio_extenso": "Ibitinga",
+    "Código IBGE": 3519600
+  },
+  {
+    "municipio_extenso": "Ibiúna",
+    "Código IBGE": 3519709
+  },
+  {
+    "municipio_extenso": "Icém",
+    "Código IBGE": 3519808
+  },
+  {
+    "municipio_extenso": "Iepê",
+    "Código IBGE": 3519907
+  },
+  {
+    "municipio_extenso": "Igaraçu do Tietê",
+    "Código IBGE": 3520004
+  },
+  {
+    "municipio_extenso": "Igarapava",
+    "Código IBGE": 3520103
+  },
+  {
+    "municipio_extenso": "Igaratá",
+    "Código IBGE": 3520202
+  },
+  {
+    "municipio_extenso": "Iguape",
+    "Código IBGE": 3520301
+  },
+  {
+    "municipio_extenso": "Ilha Comprida",
+    "Código IBGE": 3520426
+  },
+  {
+    "municipio_extenso": "Ilha Solteira",
+    "Código IBGE": 3520442
+  },
+  {
+    "municipio_extenso": "Ilhabela",
+    "Código IBGE": 3520400
+  },
+  {
+    "municipio_extenso": "Indaiatuba",
+    "Código IBGE": 3520509
+  },
+  {
+    "municipio_extenso": "Indiana",
+    "Código IBGE": 3520608
+  },
+  {
+    "municipio_extenso": "Indiaporã",
+    "Código IBGE": 3520707
+  },
+  {
+    "municipio_extenso": "Inúbia Paulista",
+    "Código IBGE": 3520806
+  },
+  {
+    "municipio_extenso": "Ipaussu",
+    "Código IBGE": 3520905
+  },
+  {
+    "municipio_extenso": "Iperó",
+    "Código IBGE": 3521002
+  },
+  {
+    "municipio_extenso": "Ipeúna",
+    "Código IBGE": 3521101
+  },
+  {
+    "municipio_extenso": "Ipiguá",
+    "Código IBGE": 3521150
+  },
+  {
+    "municipio_extenso": "Iporanga",
+    "Código IBGE": 3521200
+  },
+  {
+    "municipio_extenso": "Ipuã",
+    "Código IBGE": 3521309
+  },
+  {
+    "municipio_extenso": "Iracemápolis",
+    "Código IBGE": 3521408
+  },
+  {
+    "municipio_extenso": "Irapuã",
+    "Código IBGE": 3521507
+  },
+  {
+    "municipio_extenso": "Irapuru",
+    "Código IBGE": 3521606
+  },
+  {
+    "municipio_extenso": "Itaberá",
+    "Código IBGE": 3521705
+  },
+  {
+    "municipio_extenso": "Itaí",
+    "Código IBGE": 3521804
+  },
+  {
+    "municipio_extenso": "Itajobi",
+    "Código IBGE": 3521903
+  },
+  {
+    "municipio_extenso": "Itaju",
+    "Código IBGE": 3522000
+  },
+  {
+    "municipio_extenso": "Itanhaém",
+    "Código IBGE": 3522109
+  },
+  {
+    "municipio_extenso": "Itaoca",
+    "Código IBGE": 3522158
+  },
+  {
+    "municipio_extenso": "Itapecerica da Serra",
+    "Código IBGE": 3522208
+  },
+  {
+    "municipio_extenso": "Itapetininga",
+    "Código IBGE": 3522307
+  },
+  {
+    "municipio_extenso": "Itapeva",
+    "Código IBGE": 3522406
+  },
+  {
+    "municipio_extenso": "Itapevi",
+    "Código IBGE": 3522505
+  },
+  {
+    "municipio_extenso": "Itapira",
+    "Código IBGE": 3522604
+  },
+  {
+    "municipio_extenso": "Itapirapuã Paulista",
+    "Código IBGE": 3522653
+  },
+  {
+    "municipio_extenso": "Itápolis",
+    "Código IBGE": 3522703
+  },
+  {
+    "municipio_extenso": "Itaporanga",
+    "Código IBGE": 3522802
+  },
+  {
+    "municipio_extenso": "Itapuí",
+    "Código IBGE": 3522901
+  },
+  {
+    "municipio_extenso": "Itapura",
+    "Código IBGE": 3523008
+  },
+  {
+    "municipio_extenso": "Itaquaquecetuba",
+    "Código IBGE": 3523107
+  },
+  {
+    "municipio_extenso": "Itararé",
+    "Código IBGE": 3523206
+  },
+  {
+    "municipio_extenso": "Itariri",
+    "Código IBGE": 3523305
+  },
+  {
+    "municipio_extenso": "Itatiba",
+    "Código IBGE": 3523404
+  },
+  {
+    "municipio_extenso": "Itatinga",
+    "Código IBGE": 3523503
+  },
+  {
+    "municipio_extenso": "Itirapina",
+    "Código IBGE": 3523602
+  },
+  {
+    "municipio_extenso": "Itirapuã",
+    "Código IBGE": 3523701
+  },
+  {
+    "municipio_extenso": "Itobi",
+    "Código IBGE": 3523800
+  },
+  {
+    "municipio_extenso": "Itu",
+    "Código IBGE": 3523909
+  },
+  {
+    "municipio_extenso": "Itupeva",
+    "Código IBGE": 3524006
+  },
+  {
+    "municipio_extenso": "Ituverava",
+    "Código IBGE": 3524105
+  },
+  {
+    "municipio_extenso": "Jaborandi",
+    "Código IBGE": 3524204
+  },
+  {
+    "municipio_extenso": "Jaboticabal",
+    "Código IBGE": 3524303
+  },
+  {
+    "municipio_extenso": "Jacareí",
+    "Código IBGE": 3524402
+  },
+  {
+    "municipio_extenso": "Jaci",
+    "Código IBGE": 3524501
+  },
+  {
+    "municipio_extenso": "Jacupiranga",
+    "Código IBGE": 3524600
+  },
+  {
+    "municipio_extenso": "Jaguariúna",
+    "Código IBGE": 3524709
+  },
+  {
+    "municipio_extenso": "Jales",
+    "Código IBGE": 3524808
+  },
+  {
+    "municipio_extenso": "Jambeiro",
+    "Código IBGE": 3524907
+  },
+  {
+    "municipio_extenso": "Jandira",
+    "Código IBGE": 3525003
+  },
+  {
+    "municipio_extenso": "Jardinópolis",
+    "Código IBGE": 3525102
+  },
+  {
+    "municipio_extenso": "Jarinu",
+    "Código IBGE": 3525201
+  },
+  {
+    "municipio_extenso": "Jaú",
+    "Código IBGE": 3525300
+  },
+  {
+    "municipio_extenso": "Jeriquara",
+    "Código IBGE": 3525409
+  },
+  {
+    "municipio_extenso": "Joanópolis",
+    "Código IBGE": 3525508
+  },
+  {
+    "municipio_extenso": "João Ramalho",
+    "Código IBGE": 3525607
+  },
+  {
+    "municipio_extenso": "José Bonifácio",
+    "Código IBGE": 3525706
+  },
+  {
+    "municipio_extenso": "Júlio Mesquita",
+    "Código IBGE": 3525805
+  },
+  {
+    "municipio_extenso": "Jumirim",
+    "Código IBGE": 3525854
+  },
+  {
+    "municipio_extenso": "Jundiaí",
+    "Código IBGE": 3525904
+  },
+  {
+    "municipio_extenso": "Junqueirópolis",
+    "Código IBGE": 3526001
+  },
+  {
+    "municipio_extenso": "Juquiá",
+    "Código IBGE": 3526100
+  },
+  {
+    "municipio_extenso": "Juquitiba",
+    "Código IBGE": 3526209
+  },
+  {
+    "municipio_extenso": "Lagoinha",
+    "Código IBGE": 3526308
+  },
+  {
+    "municipio_extenso": "Laranjal Paulista",
+    "Código IBGE": 3526407
+  },
+  {
+    "municipio_extenso": "Lavínia",
+    "Código IBGE": 3526506
+  },
+  {
+    "municipio_extenso": "Lavrinhas",
+    "Código IBGE": 3526605
+  },
+  {
+    "municipio_extenso": "Leme",
+    "Código IBGE": 3526704
+  },
+  {
+    "municipio_extenso": "Lençóis Paulista",
+    "Código IBGE": 3526803
+  },
+  {
+    "municipio_extenso": "Limeira",
+    "Código IBGE": 3526902
+  },
+  {
+    "municipio_extenso": "Lindóia",
+    "Código IBGE": 3527009
+  },
+  {
+    "municipio_extenso": "Lins",
+    "Código IBGE": 3527108
+  },
+  {
+    "municipio_extenso": "Lorena",
+    "Código IBGE": 3527207
+  },
+  {
+    "municipio_extenso": "Lourdes",
+    "Código IBGE": 3527256
+  },
+  {
+    "municipio_extenso": "Louveira",
+    "Código IBGE": 3527306
+  },
+  {
+    "municipio_extenso": "Lucélia",
+    "Código IBGE": 3527405
+  },
+  {
+    "municipio_extenso": "Lucianópolis",
+    "Código IBGE": 3527504
+  },
+  {
+    "municipio_extenso": "Luís Antônio",
+    "Código IBGE": 3527603
+  },
+  {
+    "municipio_extenso": "Luiziânia",
+    "Código IBGE": 3527702
+  },
+  {
+    "municipio_extenso": "Lupércio",
+    "Código IBGE": 3527801
+  },
+  {
+    "municipio_extenso": "Lutécia",
+    "Código IBGE": 3527900
+  },
+  {
+    "municipio_extenso": "Macatuba",
+    "Código IBGE": 3528007
+  },
+  {
+    "municipio_extenso": "Macaubal",
+    "Código IBGE": 3528106
+  },
+  {
+    "municipio_extenso": "Macedônia",
+    "Código IBGE": 3528205
+  },
+  {
+    "municipio_extenso": "Magda",
+    "Código IBGE": 3528304
+  },
+  {
+    "municipio_extenso": "Mairinque",
+    "Código IBGE": 3528403
+  },
+  {
+    "municipio_extenso": "Mairiporã",
+    "Código IBGE": 3528502
+  },
+  {
+    "municipio_extenso": "Manduri",
+    "Código IBGE": 3528601
+  },
+  {
+    "municipio_extenso": "Marabá Paulista",
+    "Código IBGE": 3528700
+  },
+  {
+    "municipio_extenso": "Maracaí",
+    "Código IBGE": 3528809
+  },
+  {
+    "municipio_extenso": "Marapoama",
+    "Código IBGE": 3528858
+  },
+  {
+    "municipio_extenso": "Mariápolis",
+    "Código IBGE": 3528908
+  },
+  {
+    "municipio_extenso": "Marília",
+    "Código IBGE": 3529005
+  },
+  {
+    "municipio_extenso": "Marinópolis",
+    "Código IBGE": 3529104
+  },
+  {
+    "municipio_extenso": "Martinópolis",
+    "Código IBGE": 3529203
+  },
+  {
+    "municipio_extenso": "Matão",
+    "Código IBGE": 3529302
+  },
+  {
+    "municipio_extenso": "Mauá",
+    "Código IBGE": 3529401
+  },
+  {
+    "municipio_extenso": "Mendonça",
+    "Código IBGE": 3529500
+  },
+  {
+    "municipio_extenso": "Meridiano",
+    "Código IBGE": 3529609
+  },
+  {
+    "municipio_extenso": "Mesópolis",
+    "Código IBGE": 3529658
+  },
+  {
+    "municipio_extenso": "Miguelópolis",
+    "Código IBGE": 3529708
+  },
+  {
+    "municipio_extenso": "Mineiros do Tietê",
+    "Código IBGE": 3529807
+  },
+  {
+    "municipio_extenso": "Mira Estrela",
+    "Código IBGE": 3530003
+  },
+  {
+    "municipio_extenso": "Miracatu",
+    "Código IBGE": 3529906
+  },
+  {
+    "municipio_extenso": "Mirandópolis",
+    "Código IBGE": 3530102
+  },
+  {
+    "municipio_extenso": "Mirante do Paranapanema",
+    "Código IBGE": 3530201
+  },
+  {
+    "municipio_extenso": "Mirassol",
+    "Código IBGE": 3530300
+  },
+  {
+    "municipio_extenso": "Mirassolândia",
+    "Código IBGE": 3530409
+  },
+  {
+    "municipio_extenso": "Mococa",
+    "Código IBGE": 3530508
+  },
+  {
+    "municipio_extenso": "Mogi Guaçu",
+    "Código IBGE": 3530706
+  },
+  {
+    "municipio_extenso": "Mogi Mirim",
+    "Código IBGE": 3530805
+  },
+  {
+    "municipio_extenso": "Mogi das Cruzes",
+    "Código IBGE": 3530607
+  },
+  {
+    "municipio_extenso": "Mombuca",
+    "Código IBGE": 3530904
+  },
+  {
+    "municipio_extenso": "Monções",
+    "Código IBGE": 3531001
+  },
+  {
+    "municipio_extenso": "Mongaguá",
+    "Código IBGE": 3531100
+  },
+  {
+    "municipio_extenso": "Monte Alegre do Sul",
+    "Código IBGE": 3531209
+  },
+  {
+    "municipio_extenso": "Monte Alto",
+    "Código IBGE": 3531308
+  },
+  {
+    "municipio_extenso": "Monte Aprazível",
+    "Código IBGE": 3531407
+  },
+  {
+    "municipio_extenso": "Monte Azul Paulista",
+    "Código IBGE": 3531506
+  },
+  {
+    "municipio_extenso": "Monte Castelo",
+    "Código IBGE": 3531605
+  },
+  {
+    "municipio_extenso": "Monte Mor",
+    "Código IBGE": 3531803
+  },
+  {
+    "municipio_extenso": "Monteiro Lobato",
+    "Código IBGE": 3531704
+  },
+  {
+    "municipio_extenso": "Morro Agudo",
+    "Código IBGE": 3531902
+  },
+  {
+    "municipio_extenso": "Morungaba",
+    "Código IBGE": 3532009
+  },
+  {
+    "municipio_extenso": "Motuca",
+    "Código IBGE": 3532058
+  },
+  {
+    "municipio_extenso": "Murutinga do Sul",
+    "Código IBGE": 3532108
+  },
+  {
+    "municipio_extenso": "Nantes",
+    "Código IBGE": 3532157
+  },
+  {
+    "municipio_extenso": "Narandiba",
+    "Código IBGE": 3532207
+  },
+  {
+    "municipio_extenso": "Natividade da Serra",
+    "Código IBGE": 3532306
+  },
+  {
+    "municipio_extenso": "Nazaré Paulista",
+    "Código IBGE": 3532405
+  },
+  {
+    "municipio_extenso": "Neves Paulista",
+    "Código IBGE": 3532504
+  },
+  {
+    "municipio_extenso": "Nhandeara",
+    "Código IBGE": 3532603
+  },
+  {
+    "municipio_extenso": "Nipoã",
+    "Código IBGE": 3532702
+  },
+  {
+    "municipio_extenso": "Nova Aliança",
+    "Código IBGE": 3532801
+  },
+  {
+    "municipio_extenso": "Nova Campina",
+    "Código IBGE": 3532827
+  },
+  {
+    "municipio_extenso": "Nova Canaã Paulista",
+    "Código IBGE": 3532843
+  },
+  {
+    "municipio_extenso": "Nova Castilho",
+    "Código IBGE": 3532868
+  },
+  {
+    "municipio_extenso": "Nova Europa",
+    "Código IBGE": 3532900
+  },
+  {
+    "municipio_extenso": "Nova Granada",
+    "Código IBGE": 3533007
+  },
+  {
+    "municipio_extenso": "Nova Guataporanga",
+    "Código IBGE": 3533106
+  },
+  {
+    "municipio_extenso": "Nova Independência",
+    "Código IBGE": 3533205
+  },
+  {
+    "municipio_extenso": "Nova Luzitânia",
+    "Código IBGE": 3533304
+  },
+  {
+    "municipio_extenso": "Nova Odessa",
+    "Código IBGE": 3533403
+  },
+  {
+    "municipio_extenso": "Novais",
+    "Código IBGE": 3533254
+  },
+  {
+    "municipio_extenso": "Novo Horizonte",
+    "Código IBGE": 3533502
+  },
+  {
+    "municipio_extenso": "Nuporanga",
+    "Código IBGE": 3533601
+  },
+  {
+    "municipio_extenso": "Ocauçu",
+    "Código IBGE": 3533700
+  },
+  {
+    "municipio_extenso": "Óleo",
+    "Código IBGE": 3533809
+  },
+  {
+    "municipio_extenso": "Olímpia",
+    "Código IBGE": 3533908
+  },
+  {
+    "municipio_extenso": "Onda Verde",
+    "Código IBGE": 3534005
+  },
+  {
+    "municipio_extenso": "Oriente",
+    "Código IBGE": 3534104
+  },
+  {
+    "municipio_extenso": "Orindiúva",
+    "Código IBGE": 3534203
+  },
+  {
+    "municipio_extenso": "Orlândia",
+    "Código IBGE": 3534302
+  },
+  {
+    "municipio_extenso": "Osasco",
+    "Código IBGE": 3534401
+  },
+  {
+    "municipio_extenso": "Oscar Bressane",
+    "Código IBGE": 3534500
+  },
+  {
+    "municipio_extenso": "Osvaldo Cruz",
+    "Código IBGE": 3534609
+  },
+  {
+    "municipio_extenso": "Ourinhos",
+    "Código IBGE": 3534708
+  },
+  {
+    "municipio_extenso": "Ouro Verde",
+    "Código IBGE": 3534807
+  },
+  {
+    "municipio_extenso": "Ouroeste",
+    "Código IBGE": 3534757
+  },
+  {
+    "municipio_extenso": "Pacaembu",
+    "Código IBGE": 3534906
+  },
+  {
+    "municipio_extenso": "Palestina",
+    "Código IBGE": 3535002
+  },
+  {
+    "municipio_extenso": "Palmares Paulista",
+    "Código IBGE": 3535101
+  },
+  {
+    "municipio_extenso": "Palmeira d'Oeste",
+    "Código IBGE": 3535200
+  },
+  {
+    "municipio_extenso": "Palmital",
+    "Código IBGE": 3535309
+  },
+  {
+    "municipio_extenso": "Panorama",
+    "Código IBGE": 3535408
+  },
+  {
+    "municipio_extenso": "Paraguaçu Paulista",
+    "Código IBGE": 3535507
+  },
+  {
+    "municipio_extenso": "Paraibuna",
+    "Código IBGE": 3535606
+  },
+  {
+    "municipio_extenso": "Paraíso",
+    "Código IBGE": 3535705
+  },
+  {
+    "municipio_extenso": "Paranapanema",
+    "Código IBGE": 3535804
+  },
+  {
+    "municipio_extenso": "Paranapuã",
+    "Código IBGE": 3535903
+  },
+  {
+    "municipio_extenso": "Parapuã",
+    "Código IBGE": 3536000
+  },
+  {
+    "municipio_extenso": "Pardinho",
+    "Código IBGE": 3536109
+  },
+  {
+    "municipio_extenso": "Pariquera-Açu",
+    "Código IBGE": 3536208
+  },
+  {
+    "municipio_extenso": "Parisi",
+    "Código IBGE": 3536257
+  },
+  {
+    "municipio_extenso": "Patrocínio Paulista",
+    "Código IBGE": 3536307
+  },
+  {
+    "municipio_extenso": "Paulicéia",
+    "Código IBGE": 3536406
+  },
+  {
+    "municipio_extenso": "Paulínia",
+    "Código IBGE": 3536505
+  },
+  {
+    "municipio_extenso": "Paulistânia",
+    "Código IBGE": 3536570
+  },
+  {
+    "municipio_extenso": "Paulo de Faria",
+    "Código IBGE": 3536604
+  },
+  {
+    "municipio_extenso": "Pederneiras",
+    "Código IBGE": 3536703
+  },
+  {
+    "municipio_extenso": "Pedra Bela",
+    "Código IBGE": 3536802
+  },
+  {
+    "municipio_extenso": "Pedranópolis",
+    "Código IBGE": 3536901
+  },
+  {
+    "municipio_extenso": "Pedregulho",
+    "Código IBGE": 3537008
+  },
+  {
+    "municipio_extenso": "Pedreira",
+    "Código IBGE": 3537107
+  },
+  {
+    "municipio_extenso": "Pedrinhas Paulista",
+    "Código IBGE": 3537156
+  },
+  {
+    "municipio_extenso": "Pedro de Toledo",
+    "Código IBGE": 3537206
+  },
+  {
+    "municipio_extenso": "Penápolis",
+    "Código IBGE": 3537305
+  },
+  {
+    "municipio_extenso": "Pereira Barreto",
+    "Código IBGE": 3537404
+  },
+  {
+    "municipio_extenso": "Pereiras",
+    "Código IBGE": 3537503
+  },
+  {
+    "municipio_extenso": "Peruíbe",
+    "Código IBGE": 3537602
+  },
+  {
+    "municipio_extenso": "Piacatu",
+    "Código IBGE": 3537701
+  },
+  {
+    "municipio_extenso": "Piedade",
+    "Código IBGE": 3537800
+  },
+  {
+    "municipio_extenso": "Pilar do Sul",
+    "Código IBGE": 3537909
+  },
+  {
+    "municipio_extenso": "Pindamonhangaba",
+    "Código IBGE": 3538006
+  },
+  {
+    "municipio_extenso": "Pindorama",
+    "Código IBGE": 3538105
+  },
+  {
+    "municipio_extenso": "Pinhalzinho",
+    "Código IBGE": 3538204
+  },
+  {
+    "municipio_extenso": "Piquerobi",
+    "Código IBGE": 3538303
+  },
+  {
+    "municipio_extenso": "Piquete",
+    "Código IBGE": 3538501
+  },
+  {
+    "municipio_extenso": "Piracaia",
+    "Código IBGE": 3538600
+  },
+  {
+    "municipio_extenso": "Piracicaba",
+    "Código IBGE": 3538709
+  },
+  {
+    "municipio_extenso": "Piraju",
+    "Código IBGE": 3538808
+  },
+  {
+    "municipio_extenso": "Pirajuí",
+    "Código IBGE": 3538907
+  },
+  {
+    "municipio_extenso": "Pirangi",
+    "Código IBGE": 3539004
+  },
+  {
+    "municipio_extenso": "Pirapora do Bom Jesus",
+    "Código IBGE": 3539103
+  },
+  {
+    "municipio_extenso": "Pirapozinho",
+    "Código IBGE": 3539202
+  },
+  {
+    "municipio_extenso": "Pirassununga",
+    "Código IBGE": 3539301
+  },
+  {
+    "municipio_extenso": "Piratininga",
+    "Código IBGE": 3539400
+  },
+  {
+    "municipio_extenso": "Pitangueiras",
+    "Código IBGE": 3539509
+  },
+  {
+    "municipio_extenso": "Planalto",
+    "Código IBGE": 3539608
+  },
+  {
+    "municipio_extenso": "Platina",
+    "Código IBGE": 3539707
+  },
+  {
+    "municipio_extenso": "Poá",
+    "Código IBGE": 3539806
+  },
+  {
+    "municipio_extenso": "Poloni",
+    "Código IBGE": 3539905
+  },
+  {
+    "municipio_extenso": "Pompéia",
+    "Código IBGE": 3540002
+  },
+  {
+    "municipio_extenso": "Pongaí",
+    "Código IBGE": 3540101
+  },
+  {
+    "municipio_extenso": "Pontal",
+    "Código IBGE": 3540200
+  },
+  {
+    "municipio_extenso": "Pontalinda",
+    "Código IBGE": 3540259
+  },
+  {
+    "municipio_extenso": "Pontes Gestal",
+    "Código IBGE": 3540309
+  },
+  {
+    "municipio_extenso": "Populina",
+    "Código IBGE": 3540408
+  },
+  {
+    "municipio_extenso": "Porangaba",
+    "Código IBGE": 3540507
+  },
+  {
+    "municipio_extenso": "Porto Feliz",
+    "Código IBGE": 3540606
+  },
+  {
+    "municipio_extenso": "Porto Ferreira",
+    "Código IBGE": 3540705
+  },
+  {
+    "municipio_extenso": "Potim",
+    "Código IBGE": 3540754
+  },
+  {
+    "municipio_extenso": "Potirendaba",
+    "Código IBGE": 3540804
+  },
+  {
+    "municipio_extenso": "Pracinha",
+    "Código IBGE": 3540853
+  },
+  {
+    "municipio_extenso": "Pradópolis",
+    "Código IBGE": 3540903
+  },
+  {
+    "municipio_extenso": "Praia Grande",
+    "Código IBGE": 3541000
+  },
+  {
+    "municipio_extenso": "Pratânia",
+    "Código IBGE": 3541059
+  },
+  {
+    "municipio_extenso": "Presidente Alves",
+    "Código IBGE": 3541109
+  },
+  {
+    "municipio_extenso": "Presidente Bernardes",
+    "Código IBGE": 3541208
+  },
+  {
+    "municipio_extenso": "Presidente Epitácio",
+    "Código IBGE": 3541307
+  },
+  {
+    "municipio_extenso": "Presidente Prudente",
+    "Código IBGE": 3541406
+  },
+  {
+    "municipio_extenso": "Presidente Venceslau",
+    "Código IBGE": 3541505
+  },
+  {
+    "municipio_extenso": "Promissão",
+    "Código IBGE": 3541604
+  },
+  {
+    "municipio_extenso": "Quadra",
+    "Código IBGE": 3541653
+  },
+  {
+    "municipio_extenso": "Quatá",
+    "Código IBGE": 3541703
+  },
+  {
+    "municipio_extenso": "Queiroz",
+    "Código IBGE": 3541802
+  },
+  {
+    "municipio_extenso": "Queluz",
+    "Código IBGE": 3541901
+  },
+  {
+    "municipio_extenso": "Quintana",
+    "Código IBGE": 3542008
+  },
+  {
+    "municipio_extenso": "Rafard",
+    "Código IBGE": 3542107
+  },
+  {
+    "municipio_extenso": "Rancharia",
+    "Código IBGE": 3542206
+  },
+  {
+    "municipio_extenso": "Redenção da Serra",
+    "Código IBGE": 3542305
+  },
+  {
+    "municipio_extenso": "Regente Feijó",
+    "Código IBGE": 3542404
+  },
+  {
+    "municipio_extenso": "Reginópolis",
+    "Código IBGE": 3542503
+  },
+  {
+    "municipio_extenso": "Registro",
+    "Código IBGE": 3542602
+  },
+  {
+    "municipio_extenso": "Restinga",
+    "Código IBGE": 3542701
+  },
+  {
+    "municipio_extenso": "Ribeira",
+    "Código IBGE": 3542800
+  },
+  {
+    "municipio_extenso": "Ribeirão Bonito",
+    "Código IBGE": 3542909
+  },
+  {
+    "municipio_extenso": "Ribeirão Branco",
+    "Código IBGE": 3543006
+  },
+  {
+    "municipio_extenso": "Ribeirão Corrente",
+    "Código IBGE": 3543105
+  },
+  {
+    "municipio_extenso": "Ribeirão Grande",
+    "Código IBGE": 3543253
+  },
+  {
+    "municipio_extenso": "Ribeirão Pires",
+    "Código IBGE": 3543303
+  },
+  {
+    "municipio_extenso": "Ribeirão Preto",
+    "Código IBGE": 3543402
+  },
+  {
+    "municipio_extenso": "Ribeirão do Sul",
+    "Código IBGE": 3543204
+  },
+  {
+    "municipio_extenso": "Ribeirão dos Índios",
+    "Código IBGE": 3543238
+  },
+  {
+    "municipio_extenso": "Rifaina",
+    "Código IBGE": 3543600
+  },
+  {
+    "municipio_extenso": "Rincão",
+    "Código IBGE": 3543709
+  },
+  {
+    "municipio_extenso": "Rinópolis",
+    "Código IBGE": 3543808
+  },
+  {
+    "municipio_extenso": "Rio Claro",
+    "Código IBGE": 3543907
+  },
+  {
+    "municipio_extenso": "Rio Grande da Serra",
+    "Código IBGE": 3544103
+  },
+  {
+    "municipio_extenso": "Rio das Pedras",
+    "Código IBGE": 3544004
+  },
+  {
+    "municipio_extenso": "Riolândia",
+    "Código IBGE": 3544202
+  },
+  {
+    "municipio_extenso": "Riversul",
+    "Código IBGE": 3543501
+  },
+  {
+    "municipio_extenso": "Rosana",
+    "Código IBGE": 3544251
+  },
+  {
+    "municipio_extenso": "Roseira",
+    "Código IBGE": 3544301
+  },
+  {
+    "municipio_extenso": "Rubiácea",
+    "Código IBGE": 3544400
+  },
+  {
+    "municipio_extenso": "Rubinéia",
+    "Código IBGE": 3544509
+  },
+  {
+    "municipio_extenso": "Sabino",
+    "Código IBGE": 3544608
+  },
+  {
+    "municipio_extenso": "Sagres",
+    "Código IBGE": 3544707
+  },
+  {
+    "municipio_extenso": "Sales",
+    "Código IBGE": 3544806
+  },
+  {
+    "municipio_extenso": "Sales Oliveira",
+    "Código IBGE": 3544905
+  },
+  {
+    "municipio_extenso": "Salesópolis",
+    "Código IBGE": 3545001
+  },
+  {
+    "municipio_extenso": "Salmourão",
+    "Código IBGE": 3545100
+  },
+  {
+    "municipio_extenso": "Saltinho",
+    "Código IBGE": 3545159
+  },
+  {
+    "municipio_extenso": "Salto",
+    "Código IBGE": 3545209
+  },
+  {
+    "municipio_extenso": "Salto Grande",
+    "Código IBGE": 3545407
+  },
+  {
+    "municipio_extenso": "Salto de Pirapora",
+    "Código IBGE": 3545308
+  },
+  {
+    "municipio_extenso": "Sandovalina",
+    "Código IBGE": 3545506
+  },
+  {
+    "municipio_extenso": "Santa Adélia",
+    "Código IBGE": 3545605
+  },
+  {
+    "municipio_extenso": "Santa Albertina",
+    "Código IBGE": 3545704
+  },
+  {
+    "municipio_extenso": "Santa Bárbara d'Oeste",
+    "Código IBGE": 3545803
+  },
+  {
+    "municipio_extenso": "Santa Branca",
+    "Código IBGE": 3546009
+  },
+  {
+    "municipio_extenso": "Santa Clara d'Oeste",
+    "Código IBGE": 3546108
+  },
+  {
+    "municipio_extenso": "Santa Cruz da Conceição",
+    "Código IBGE": 3546207
+  },
+  {
+    "municipio_extenso": "Santa Cruz da Esperança",
+    "Código IBGE": 3546256
+  },
+  {
+    "municipio_extenso": "Santa Cruz das Palmeiras",
+    "Código IBGE": 3546306
+  },
+  {
+    "municipio_extenso": "Santa Cruz do Rio Pardo",
+    "Código IBGE": 3546405
+  },
+  {
+    "municipio_extenso": "Santa Ernestina",
+    "Código IBGE": 3546504
+  },
+  {
+    "municipio_extenso": "Santa Fé do Sul",
+    "Código IBGE": 3546603
+  },
+  {
+    "municipio_extenso": "Santa Gertrudes",
+    "Código IBGE": 3546702
+  },
+  {
+    "municipio_extenso": "Santa Isabel",
+    "Código IBGE": 3546801
+  },
+  {
+    "municipio_extenso": "Santa Lúcia",
+    "Código IBGE": 3546900
+  },
+  {
+    "municipio_extenso": "Santa Maria da Serra",
+    "Código IBGE": 3547007
+  },
+  {
+    "municipio_extenso": "Santa Mercedes",
+    "Código IBGE": 3547106
+  },
+  {
+    "municipio_extenso": "Santa Rita d'Oeste",
+    "Código IBGE": 3547403
+  },
+  {
+    "municipio_extenso": "Santa Rita do Passa Quatro",
+    "Código IBGE": 3547502
+  },
+  {
+    "municipio_extenso": "Santa Rosa de Viterbo",
+    "Código IBGE": 3547601
+  },
+  {
+    "municipio_extenso": "Santa Salete",
+    "Código IBGE": 3547650
+  },
+  {
+    "municipio_extenso": "Santana da Ponte Pensa",
+    "Código IBGE": 3547205
+  },
+  {
+    "municipio_extenso": "Santana de Parnaíba",
+    "Código IBGE": 3547304
+  },
+  {
+    "municipio_extenso": "Santo Anastácio",
+    "Código IBGE": 3547700
+  },
+  {
+    "municipio_extenso": "Santo André",
+    "Código IBGE": 3547809
+  },
+  {
+    "municipio_extenso": "Santo Antônio da Alegria",
+    "Código IBGE": 3547908
+  },
+  {
+    "municipio_extenso": "Santo Antônio de Posse",
+    "Código IBGE": 3548005
+  },
+  {
+    "municipio_extenso": "Santo Antônio do Aracanguá",
+    "Código IBGE": 3548054
+  },
+  {
+    "municipio_extenso": "Santo Antônio do Jardim",
+    "Código IBGE": 3548104
+  },
+  {
+    "municipio_extenso": "Santo Antônio do Pinhal",
+    "Código IBGE": 3548203
+  },
+  {
+    "municipio_extenso": "Santo Expedito",
+    "Código IBGE": 3548302
+  },
+  {
+    "municipio_extenso": "Santópolis do Aguapeí",
+    "Código IBGE": 3548401
+  },
+  {
+    "municipio_extenso": "Santos",
+    "Código IBGE": 3548500
+  },
+  {
+    "municipio_extenso": "São Bento do Sapucaí",
+    "Código IBGE": 3548609
+  },
+  {
+    "municipio_extenso": "São Bernardo do Campo",
+    "Código IBGE": 3548708
+  },
+  {
+    "municipio_extenso": "São Caetano do Sul",
+    "Código IBGE": 3548807
+  },
+  {
+    "municipio_extenso": "São Carlos",
+    "Código IBGE": 3548906
+  },
+  {
+    "municipio_extenso": "São Francisco",
+    "Código IBGE": 3549003
+  },
+  {
+    "municipio_extenso": "São João da Boa Vista",
+    "Código IBGE": 3549102
+  },
+  {
+    "municipio_extenso": "São João das Duas Pontes",
+    "Código IBGE": 3549201
+  },
+  {
+    "municipio_extenso": "São João de Iracema",
+    "Código IBGE": 3549250
+  },
+  {
+    "municipio_extenso": "São João do Pau d'Alho",
+    "Código IBGE": 3549300
+  },
+  {
+    "municipio_extenso": "São Joaquim da Barra",
+    "Código IBGE": 3549409
+  },
+  {
+    "municipio_extenso": "São José da Bela Vista",
+    "Código IBGE": 3549508
+  },
+  {
+    "municipio_extenso": "São José do Barreiro",
+    "Código IBGE": 3549607
+  },
+  {
+    "municipio_extenso": "São José do Rio Pardo",
+    "Código IBGE": 3549706
+  },
+  {
+    "municipio_extenso": "São José do Rio Preto",
+    "Código IBGE": 3549805
+  },
+  {
+    "municipio_extenso": "São José dos Campos",
+    "Código IBGE": 3549904
+  },
+  {
+    "municipio_extenso": "São Lourenço da Serra",
+    "Código IBGE": 3549953
+  },
+  {
+    "municipio_extenso": "São Luiz do Paraitinga",
+    "Código IBGE": 3550001
+  },
+  {
+    "municipio_extenso": "São Manuel",
+    "Código IBGE": 3550100
+  },
+  {
+    "municipio_extenso": "São Miguel Arcanjo",
+    "Código IBGE": 3550209
+  },
+  {
+    "municipio_extenso": "São Paulo",
+    "Código IBGE": 3550308
+  },
+  {
+    "municipio_extenso": "São Pedro",
+    "Código IBGE": 3550407
+  },
+  {
+    "municipio_extenso": "São Pedro do Turvo",
+    "Código IBGE": 3550506
+  },
+  {
+    "municipio_extenso": "São Roque",
+    "Código IBGE": 3550605
+  },
+  {
+    "municipio_extenso": "São Sebastião",
+    "Código IBGE": 3550704
+  },
+  {
+    "municipio_extenso": "São Sebastião da Grama",
+    "Código IBGE": 3550803
+  },
+  {
+    "municipio_extenso": "São Simão",
+    "Código IBGE": 3550902
+  },
+  {
+    "municipio_extenso": "São Vicente",
+    "Código IBGE": 3551009
+  },
+  {
+    "municipio_extenso": "Sarapuí",
+    "Código IBGE": 3551108
+  },
+  {
+    "municipio_extenso": "Sarutaiá",
+    "Código IBGE": 3551207
+  },
+  {
+    "municipio_extenso": "Sebastianópolis do Sul",
+    "Código IBGE": 3551306
+  },
+  {
+    "municipio_extenso": "Serra Azul",
+    "Código IBGE": 3551405
+  },
+  {
+    "municipio_extenso": "Serra Negra",
+    "Código IBGE": 3551603
+  },
+  {
+    "municipio_extenso": "Serrana",
+    "Código IBGE": 3551504
+  },
+  {
+    "municipio_extenso": "Sertãozinho",
+    "Código IBGE": 3551702
+  },
+  {
+    "municipio_extenso": "Sete Barras",
+    "Código IBGE": 3551801
+  },
+  {
+    "municipio_extenso": "Severínia",
+    "Código IBGE": 3551900
+  },
+  {
+    "municipio_extenso": "Silveiras",
+    "Código IBGE": 3552007
+  },
+  {
+    "municipio_extenso": "Socorro",
+    "Código IBGE": 3552106
+  },
+  {
+    "municipio_extenso": "Sorocaba",
+    "Código IBGE": 3552205
+  },
+  {
+    "municipio_extenso": "Sud Mennucci",
+    "Código IBGE": 3552304
+  },
+  {
+    "municipio_extenso": "Sumaré",
+    "Código IBGE": 3552403
+  },
+  {
+    "municipio_extenso": "Suzanápolis",
+    "Código IBGE": 3552551
+  },
+  {
+    "municipio_extenso": "Suzano",
+    "Código IBGE": 3552502
+  },
+  {
+    "municipio_extenso": "Tabapuã",
+    "Código IBGE": 3552601
+  },
+  {
+    "municipio_extenso": "Tabatinga",
+    "Código IBGE": 3552700
+  },
+  {
+    "municipio_extenso": "Taboão da Serra",
+    "Código IBGE": 3552809
+  },
+  {
+    "municipio_extenso": "Taciba",
+    "Código IBGE": 3552908
+  },
+  {
+    "municipio_extenso": "Taguaí",
+    "Código IBGE": 3553005
+  },
+  {
+    "municipio_extenso": "Taiaçu",
+    "Código IBGE": 3553104
+  },
+  {
+    "municipio_extenso": "Taiúva",
+    "Código IBGE": 3553203
+  },
+  {
+    "municipio_extenso": "Tambaú",
+    "Código IBGE": 3553302
+  },
+  {
+    "municipio_extenso": "Tanabi",
+    "Código IBGE": 3553401
+  },
+  {
+    "municipio_extenso": "Tapiraí",
+    "Código IBGE": 3553500
+  },
+  {
+    "municipio_extenso": "Tapiratiba",
+    "Código IBGE": 3553609
+  },
+  {
+    "municipio_extenso": "Taquaral",
+    "Código IBGE": 3553658
+  },
+  {
+    "municipio_extenso": "Taquaritinga",
+    "Código IBGE": 3553708
+  },
+  {
+    "municipio_extenso": "Taquarituba",
+    "Código IBGE": 3553807
+  },
+  {
+    "municipio_extenso": "Taquarivaí",
+    "Código IBGE": 3553856
+  },
+  {
+    "municipio_extenso": "Tarabai",
+    "Código IBGE": 3553906
+  },
+  {
+    "municipio_extenso": "Tarumã",
+    "Código IBGE": 3553955
+  },
+  {
+    "municipio_extenso": "Tatuí",
+    "Código IBGE": 3554003
+  },
+  {
+    "municipio_extenso": "Taubaté",
+    "Código IBGE": 3554102
+  },
+  {
+    "municipio_extenso": "Tejupá",
+    "Código IBGE": 3554201
+  },
+  {
+    "municipio_extenso": "Teodoro Sampaio",
+    "Código IBGE": 3554300
+  },
+  {
+    "municipio_extenso": "Terra Roxa",
+    "Código IBGE": 3554409
+  },
+  {
+    "municipio_extenso": "Tietê",
+    "Código IBGE": 3554508
+  },
+  {
+    "municipio_extenso": "Timburi",
+    "Código IBGE": 3554607
+  },
+  {
+    "municipio_extenso": "Torre de Pedra",
+    "Código IBGE": 3554656
+  },
+  {
+    "municipio_extenso": "Torrinha",
+    "Código IBGE": 3554706
+  },
+  {
+    "municipio_extenso": "Trabiju",
+    "Código IBGE": 3554755
+  },
+  {
+    "municipio_extenso": "Tremembé",
+    "Código IBGE": 3554805
+  },
+  {
+    "municipio_extenso": "Três Fronteiras",
+    "Código IBGE": 3554904
+  },
+  {
+    "municipio_extenso": "Tuiuti",
+    "Código IBGE": 3554953
+  },
+  {
+    "municipio_extenso": "Tupã",
+    "Código IBGE": 3555000
+  },
+  {
+    "municipio_extenso": "Tupi Paulista",
+    "Código IBGE": 3555109
+  },
+  {
+    "municipio_extenso": "Turiúba",
+    "Código IBGE": 3555208
+  },
+  {
+    "municipio_extenso": "Turmalina",
+    "Código IBGE": 3555307
+  },
+  {
+    "municipio_extenso": "Ubarana",
+    "Código IBGE": 3555356
+  },
+  {
+    "municipio_extenso": "Ubatuba",
+    "Código IBGE": 3555406
+  },
+  {
+    "municipio_extenso": "Ubirajara",
+    "Código IBGE": 3555505
+  },
+  {
+    "municipio_extenso": "Uchoa",
+    "Código IBGE": 3555604
+  },
+  {
+    "municipio_extenso": "União Paulista",
+    "Código IBGE": 3555703
+  },
+  {
+    "municipio_extenso": "Urânia",
+    "Código IBGE": 3555802
+  },
+  {
+    "municipio_extenso": "Uru",
+    "Código IBGE": 3555901
+  },
+  {
+    "municipio_extenso": "Urupês",
+    "Código IBGE": 3556008
+  },
+  {
+    "municipio_extenso": "Valentim Gentil",
+    "Código IBGE": 3556107
+  },
+  {
+    "municipio_extenso": "Valinhos",
+    "Código IBGE": 3556206
+  },
+  {
+    "municipio_extenso": "Valparaíso",
+    "Código IBGE": 3556305
+  },
+  {
+    "municipio_extenso": "Vargem",
+    "Código IBGE": 3556354
+  },
+  {
+    "municipio_extenso": "Vargem Grande Paulista",
+    "Código IBGE": 3556453
+  },
+  {
+    "municipio_extenso": "Vargem Grande do Sul",
+    "Código IBGE": 3556404
+  },
+  {
+    "municipio_extenso": "Várzea Paulista",
+    "Código IBGE": 3556503
+  },
+  {
+    "municipio_extenso": "Vera Cruz",
+    "Código IBGE": 3556602
+  },
+  {
+    "municipio_extenso": "Vinhedo",
+    "Código IBGE": 3556701
+  },
+  {
+    "municipio_extenso": "Viradouro",
+    "Código IBGE": 3556800
+  },
+  {
+    "municipio_extenso": "Vista Alegre do Alto",
+    "Código IBGE": 3556909
+  },
+  {
+    "municipio_extenso": "Vitória Brasil",
+    "Código IBGE": 3556958
+  },
+  {
+    "municipio_extenso": "Votorantim",
+    "Código IBGE": 3557006
+  },
+  {
+    "municipio_extenso": "Votuporanga",
+    "Código IBGE": 3557105
+  },
+  {
+    "municipio_extenso": "Zacarias",
+    "Código IBGE": 3557154
+  }
+]
