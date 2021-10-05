@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.scss';
-import Expenditure from './api/Expenditure'
+import CitiesList from './api/CitiesList'
 
 ReactDOM.render(
   <React.StrictMode>
-    <Expenditure />
+    <CitiesList />
   </React.StrictMode>,
   document.getElementById('root')
 );
