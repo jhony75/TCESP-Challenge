@@ -1,0 +1,39 @@
+@import "./reset.css";
+
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:wght@600&family=Inconsolata&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ephesis&display=swap");
+
+:root{
+  /* Nord Color Theme */
+  /* Polar Night -> Background */
+  --NordBackground: #2E3440; /* Default  dark background */
+  --NordSecondBG: #3B4252; /* Comments, shadows and inconspicuous details */
+  --NordThirdBG: #434C5E; /* Colorize the current active text and/or line */
+  --NordFourthBG: #4C566A; /* Markings on the screen and not so relevant details */
+
+  /* SnowStorm -> Text colors and Base UI */
+  --NordSnowStorm: #D8DEE9; /* UI elements */
+  --NordSecondSnowStorm: #E5E9F0; /* State animations */
+  --NordThirdSnowStorm: #ECEFF4; /* Important details and text */
+
+  /* Frost -> Primary UI Components and Text Highlight */
+  --NordFrost: #8FBCBB; /* More important stuff */
+  --NordSecondFrost: #88C0D0; /* Primary UI Elements */
+  --NordThirdFrost: #81A1C1; /* Secondary UI Elements */
+  --NordFourthFrost: #5E81AC; /* Tertiary UI Elements */
+
+  /* Aurora -> Details, explanations on each item */
+
+  --NordRed: #BF616A; /* Render errors */
+  --NordOrange:#D08770; /* Render dangerous stuff */
+  --NordYellow:#EBCB8B; /* Render warnings */
+  --NordGreen:#A3BE8C; /* Render success */
+  --NordLilac:#B48EAD; /* Render uncommon stuff */
+
+  --titleFont:'EB Garamond', serif;
+  --defaultFont: 'Inconsolata', monospace;
+  --testFont: 'Ephesis', handwritten;  
+
+  font-size: 16px;
+  font-family: var(--defaultFont);
+}
