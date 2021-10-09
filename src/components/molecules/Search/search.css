@@ -1,0 +1,19 @@
+@import '../../../styles/variables.css';
+
+.GridWrapper {
+  display: grid;
+  justify-items: center;
+}
+
+.Inputs {
+  display: flex;
+  flex-direction: row;
+  align-content: space-around;
+  gap: 10px;
+}
+
+.Button {
+  display: grid;
+  justify-items: center;
+  margin-top: 10px;
+}
