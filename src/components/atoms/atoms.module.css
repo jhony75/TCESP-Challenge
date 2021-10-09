@@ -1,0 +1,6 @@
+@import '../../styles/variables.css';
+
+.Button {
+  background-color: var(--NordThirdFrost);
+  border: solid 1px var(--NordSnowStorm);
+}
