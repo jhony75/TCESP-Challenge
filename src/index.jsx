@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Search from './components/molecules/Search/Search';
+import Search from './components/Search/Search';
 import './index.css';
 
 ReactDOM.render(

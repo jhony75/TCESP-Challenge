@@ -1,0 +1,5 @@
+@import '../../styles/variables.css';
+
+.Table {
+  font-family: var(--testFont);
+}

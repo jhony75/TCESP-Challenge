@@ -1,9 +1,0 @@
-@import '../../styles/variables.css';
-
-.GridWrapper {
-  display: grid;
-}
-
-.Inputs {
-  display: flex;
-}
