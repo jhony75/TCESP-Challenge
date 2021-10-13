@@ -5,7 +5,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faSearch } from '@fortawesome/free-solid-svg-icons'
 
 const element = <FontAwesomeIcon icon={faSearch} />
-const nothing = ""
 
 const Button = ({ label, type, isSearch }) => {
   return (

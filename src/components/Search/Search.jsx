@@ -49,7 +49,6 @@ const Search = () => {
     searchCity(query);
   }
 
-
   return (
     <>
     <h1>Portal Unificado de Transparencia</h1>
@@ -96,10 +95,7 @@ const Search = () => {
       <p>Mes: {month}</p>
       <p>Ano: {year}</p>
     </div>
-    <div classname={styles.Table}>
-      <ul>
-        {/* { expenditure } */}
-      </ul>
+    <div className={styles.Table}>
     </div>
     </>
   )
