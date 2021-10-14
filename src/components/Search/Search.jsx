@@ -7,7 +7,16 @@ const Search = () => {
   const [city, setCity] = useState('');
   const [month, setMonth] = useState('');
   const [year, setYear] = useState('');
-  const [expenditure, setExpenditure] = useState('');
+  const [expenditure, setExpenditure] = useState([
+    // orgao: "",
+    // mes: "",
+    // evento: "",
+    // nr_empenho: "",
+    // id_fornecedor: "",
+    // nm_fornecedor: "",
+    // dt_emissao_despesa: "",
+    // vl_despesa: "",
+  ]);
   const [income, setIncome] = useState('');
 
   const query = { city, month, year };
@@ -94,8 +103,24 @@ const Search = () => {
       <p>Cidade: {city}</p>
       <p>Mes: {month}</p>
       <p>Ano: {year}</p>
+      <br />
+      <hr />
+      <br />
     </div>
     <div className={styles.Table}>
+      { expenditure.map(expense => (
+        <>
+        <p> {expense.orgao} </p>
+        <p> {expense.mes} </p>
+        <p> {expense.evento} </p>
+        <p> {expense.nr_empenho} </p>
+        <p> {expense.id_fornecedor} </p>
+        <p> {expense.nm_fornecedor} </p>
+        <p> {expense.dt_emissao_despesa} </p>
+        <p> {expense.vl_despesa} </p>
+        <hr />
+        </>
+      ))}
     </div>
     </>
   )
