@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import api from '../../services/api'
 import './search.css'
 import styles from './search.module.css'
@@ -7,24 +7,18 @@ const Search = () => {
   const [city, setCity] = useState('');
   const [month, setMonth] = useState('');
   const [year, setYear] = useState('');
-  const [expenditure, setExpenditure] = useState([
-    // orgao: "",
-    // mes: "",
-    // evento: "",
-    // nr_empenho: "",
-    // id_fornecedor: "",
-    // nm_fornecedor: "",
-    // dt_emissao_despesa: "",
-    // vl_despesa: "",
-  ]);
-  const [income, setIncome] = useState('');
+  const [expenditure, setExpenditure] = useState([]);
+  const [income, setIncome] = useState([]);
 
-  const query = { city, month, year };
+  const headerExpense = ["Orgão", "Empenho", "N° Empenho", "Fornecedor", "N° Fornecedor", "Data", "Valor"];
+  const headerIncome = ["Orgão", "Fonte", "Aplicação", "Título", "Subtítulo", "Valor"];
+
+  const sanitize = (text) => text.replace(/\s|_|\(|\)| /g, "-").normalize("NFD").replace(/\p{Diacritic}/gu,"").toLowerCase()
 
   const searchExpenditure = (query) => {
     api
       .post("/despesas", {
-        municipio: query.city,
+        municipio: query.sanitized,
         ano: query.year,
         mes: query.month
       })
@@ -37,7 +31,7 @@ const Search = () => {
   const searchIncome = (query) => {
     api
       .post("/receitas", {
-        municipio: query.city,
+        municipio: query.sanitized,
         ano: query.year,
         mes: query.month
       })
@@ -48,14 +42,23 @@ const Search = () => {
   }
 
   const searchCity = (query) => {
-    console.log(searchExpenditure(query))
-    console.log(searchIncome(query))
+    searchExpenditure(query);
+    searchIncome(query);
+  }
+
+  const clearStates = () => {
+    setExpenditure([])
+    setIncome([])
   }
 
   const handleSubmit = (e) => {
+    let sanitized = sanitize(city)
+    console.log(sanitized)
+    const query = { sanitized, month, year };
     e.preventDefault();
-    console.log(query);
-    searchCity(query);
+    // setSanitized(sanitize(city))
+    searchCity(query)
+    clearStates();
   }
 
   return (
@@ -68,7 +71,8 @@ const Search = () => {
           type="text"
           required
           value={city}
-          onChange={(e) => setCity(e.target.value)}
+          // onChange={ (e) => setCity(e.target.value) }
+          onInput={ (e) => setCity(e.target.value) }
         />
         <label>Mês: </label>
         <select
@@ -99,28 +103,44 @@ const Search = () => {
         <button>Pesquisar</button>
       </form>
     </div>
-    <div className="Debug">
-      <p>Cidade: {city}</p>
-      <p>Mes: {month}</p>
-      <p>Ano: {year}</p>
-      <br />
-      <hr />
-      <br />
-    </div>
-    <div className={styles.Table}>
-      { expenditure.map(expense => (
-        <>
-        <p> {expense.orgao} </p>
-        <p> {expense.mes} </p>
-        <p> {expense.evento} </p>
-        <p> {expense.nr_empenho} </p>
-        <p> {expense.id_fornecedor} </p>
-        <p> {expense.nm_fornecedor} </p>
-        <p> {expense.dt_emissao_despesa} </p>
-        <p> {expense.vl_despesa} </p>
-        <hr />
-        </>
-      ))}
+    <div className={styles.tableSection}>
+      <h2>Despesas</h2>
+      <table>
+        <thead>
+          <tr>{ headerExpense.map((header, index) => <th key={index}>{header}</th> )}</tr>
+        </thead>
+        <tbody>
+          { expenditure.map((expense, index) => (
+            <tr key={index}>
+              <td> {expense.orgao} </td>
+              <td> {expense.evento} </td>
+              <td> {expense.nr_empenho} </td>
+              <td> {expense.id_fornecedor} </td>
+              <td> {expense.nm_fornecedor} </td>
+              <td> {expense.dt_emissao_despesa} </td>
+              <td> R$ {expense.vl_despesa} </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+      <h2>Receitas</h2>
+      <table>
+        <thead>
+          <tr>{ headerIncome.map((header, index) => <th key={index}>{header}</th> )}</tr>
+        </thead>
+        <tbody>
+          { income.map((income, index) => (
+            <tr key={index}>
+              <td> { income.orgao } </td>
+              <td> {income.ds_fonte_recurso } </td>
+              <td> {income.ds_cd_aplicacao_fixo } </td>
+              <td> {income.ds_alinea } </td>
+              <td> {income.ds_subalinea } </td>
+              <td> R$ { income.vl_arrecadacao } </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </div>
     </>
   )
