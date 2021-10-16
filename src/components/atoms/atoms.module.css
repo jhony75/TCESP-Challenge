@@ -4,3 +4,7 @@
   background-color: var(--NordThirdFrost);
   border: solid 1px var(--NordSnowStorm);
 }
+
+.Icon {
+  color: pink;
+}

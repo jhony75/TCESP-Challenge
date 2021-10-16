@@ -1,5 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
+
 import api from '../../services/api'
+
 import './search.css'
 import styles from './search.module.css'
 
@@ -56,7 +58,6 @@ const Search = () => {
     console.log(sanitized)
     const query = { sanitized, month, year };
     e.preventDefault();
-    // setSanitized(sanitize(city))
     searchCity(query)
     clearStates();
   }
@@ -71,7 +72,6 @@ const Search = () => {
           type="text"
           required
           value={city}
-          // onChange={ (e) => setCity(e.target.value) }
           onInput={ (e) => setCity(e.target.value) }
         />
         <label>Mês: </label>
@@ -105,38 +105,38 @@ const Search = () => {
     </div>
     <div className={styles.tableSection}>
       <h2>Despesas</h2>
-      <table>
+      <table className="tg">
         <thead>
-          <tr>{ headerExpense.map((header, index) => <th key={index}>{header}</th> )}</tr>
+          <tr>{ headerExpense.map((header, index) => <th key={index} className="tg-0pky">{header}</th> )}</tr>
         </thead>
         <tbody>
           { expenditure.map((expense, index) => (
             <tr key={index}>
-              <td> {expense.orgao} </td>
-              <td> {expense.evento} </td>
-              <td> {expense.nr_empenho} </td>
-              <td> {expense.id_fornecedor} </td>
-              <td> {expense.nm_fornecedor} </td>
-              <td> {expense.dt_emissao_despesa} </td>
-              <td> R$ {expense.vl_despesa} </td>
+              <td className="tg-btxf"> {expense.orgao} </td>
+              <td className="tg-btxf"> {expense.evento} </td>
+              <td className="tg-btxf"> {expense.nr_empenho} </td>
+              <td className="tg-btxf"> {expense.id_fornecedor} </td>
+              <td className="tg-btxf"> {expense.nm_fornecedor} </td>
+              <td className="tg-btxf"> {expense.dt_emissao_despesa} </td>
+              <td className="tg-btxf"> R$ {expense.vl_despesa} </td>
             </tr>
           ))}
         </tbody>
       </table>
       <h2>Receitas</h2>
-      <table>
+      <table className="tg">
         <thead>
-          <tr>{ headerIncome.map((header, index) => <th key={index}>{header}</th> )}</tr>
+          <tr>{ headerIncome.map((header, index) => <th key={index} className="tg-0pky">{header}</th> )}</tr>
         </thead>
         <tbody>
           { income.map((income, index) => (
             <tr key={index}>
-              <td> { income.orgao } </td>
-              <td> {income.ds_fonte_recurso } </td>
-              <td> {income.ds_cd_aplicacao_fixo } </td>
-              <td> {income.ds_alinea } </td>
-              <td> {income.ds_subalinea } </td>
-              <td> R$ { income.vl_arrecadacao } </td>
+              <td className="tg-btxf"> { income.orgao } </td>
+              <td className="tg-btxf"> {income.ds_fonte_recurso } </td>
+              <td className="tg-btxf"> {income.ds_cd_aplicacao_fixo } </td>
+              <td className="tg-btxf"> {income.ds_alinea } </td>
+              <td className="tg-btxf"> {income.ds_subalinea } </td>
+              <td className="tg-btxf"> R$ { income.vl_arrecadacao } </td>
             </tr>
           ))}
         </tbody>
