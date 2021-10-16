@@ -1,9 +1,9 @@
 import React from 'react';
-import Search from '../Search/Search'
-import './comparison.css'
+import Search from '../Search/Search';
+import './comparison.css';
 
 const Comparison = () => {
-  return(
+  return (
     <div className="gridWrapper">
       <div className="leftSide">
         <Search />
@@ -12,7 +12,7 @@ const Comparison = () => {
         <Search />
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Comparison
+export default Comparison;

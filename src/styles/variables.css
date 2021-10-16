@@ -1,38 +1,38 @@
 /* @import "./reset.css"; */
 
-@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:wght@600&family=Inconsolata&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Ephesis&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@600&family=Inconsolata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
 
-:root{
+:root {
   /* Nord Color Theme */
   /* Polar Night -> Background */
-  --NordBackground: #2E3440; /* Default  dark background */
-  --NordSecondBG: #3B4252; /* Comments, shadows and inconspicuous details */
-  --NordThirdBG: #434C5E; /* Colorize the current active text and/or line */
-  --NordFourthBG: #4C566A; /* Markings on the screen and not so relevant details */
+  --NordBackground: #2e3440; /* Default  dark background */
+  --NordSecondBG: #3b4252; /* Comments, shadows and inconspicuous details */
+  --NordThirdBG: #434c5e; /* Colorize the current active text and/or line */
+  --NordFourthBG: #4c566a; /* Markings on the screen and not so relevant details */
 
   /* SnowStorm -> Text colors and Base UI */
-  --NordSnowStorm: #D8DEE9; /* UI elements */
-  --NordSecondSnowStorm: #E5E9F0; /* State animations */
-  --NordThirdSnowStorm: #ECEFF4; /* Important details and text */
+  --NordSnowStorm: #d8dee9; /* UI elements */
+  --NordSecondSnowStorm: #e5e9f0; /* State animations */
+  --NordThirdSnowStorm: #eceff4; /* Important details and text */
 
   /* Frost -> Primary UI Components and Text Highlight */
-  --NordFrost: #8FBCBB; /* More important stuff */
-  --NordSecondFrost: #88C0D0; /* Primary UI Elements */
-  --NordThirdFrost: #81A1C1; /* Secondary UI Elements */
-  --NordFourthFrost: #5E81AC; /* Tertiary UI Elements */
+  --NordFrost: #8fbcbb; /* More important stuff */
+  --NordSecondFrost: #88c0d0; /* Primary UI Elements */
+  --NordThirdFrost: #81a1c1; /* Secondary UI Elements */
+  --NordFourthFrost: #5e81ac; /* Tertiary UI Elements */
 
   /* Aurora -> Details, explanations on each item */
 
-  --NordRed: #BF616A; /* Render errors */
-  --NordOrange:#D08770; /* Render dangerous stuff */
-  --NordYellow:#EBCB8B; /* Render warnings */
-  --NordGreen:#A3BE8C; /* Render success */
-  --NordLilac:#B48EAD; /* Render uncommon stuff */
+  --NordRed: #bf616a; /* Render errors */
+  --NordOrange: #d08770; /* Render dangerous stuff */
+  --NordYellow: #ebcb8b; /* Render warnings */
+  --NordGreen: #a3be8c; /* Render success */
+  --NordLilac: #b48ead; /* Render uncommon stuff */
 
-  --titleFont:'EB Garamond', serif;
+  --titleFont: 'EB Garamond', serif;
   --defaultFont: 'Inconsolata', monospace;
-  --testFont: 'Ephesis', handwritten;  
+  --testFont: 'Ephesis', handwritten;
 
   font-size: 16px;
   font-family: var(--defaultFont);
