@@ -1,14 +1,14 @@
 import React from 'react';
 import {BrowserRouter, Switch, Route} from 'react-router-dom'
-import Search from '../Search/Search';
-import Comparison from '../Comparison/Comparison';
+import HomePage from '../../pages/HomePage/HomePage'
+import ComparisonPage from '../../pages/ComparisonPage/ComparisonPage'
 
 function Routes () {
   return (
     <BrowserRouter>
       <Switch>
-        <Route path="/" exact component={Search} />
-        <Route path="/comparison" exact component={Comparison} />
+        <Route path="/" exact component={HomePage} />
+        <Route path="/comparison" exact component={ComparisonPage} />
       </Switch>
     </BrowserRouter>
   )

@@ -1,17 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-// import Download from './components/Download/Download';
-// import Routes from './components/Router/Routes';
-// import Comparison from './components/Comparison/Comparison';
-import Search from './components/Search/Search'
-import './index.css';
+import Routes from './components/Router/Routes';
+import styles from './index.module.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Search />
-    {/* <Comparison /> */}
-    {/* <Routes /> */}
-    {/* <Download /> */}
+    <div className={styles.Content}>
+      <Routes />
+    </div>
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -1,0 +1,26 @@
+@import '../../styles/variables.css';
+
+.Title {
+  font-family: inherit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* 
+.GridWrapper {
+  display: grid;
+  justify-items: center;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  grid-gap: 5px;
+}
+
+.Right {
+  grid-column: 1/2;
+  grid-row: 1/2;
+}
+
+.Left {
+  grid-column: 2/3;
+  grid-row: 1/2;
+} */

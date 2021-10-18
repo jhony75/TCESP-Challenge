@@ -64,11 +64,11 @@ const Search = () => {
 
   return (
     <>
-    <h1>Portal Unificado de Transparencia</h1>
     <div className="Inputs">
       <form onSubmit={handleSubmit}>
         <label>Cidade: </label>
         <input
+          className="inputForm"
           type="text"
           required
           value={city}
@@ -76,6 +76,7 @@ const Search = () => {
         />
         <label>Mês: </label>
         <select
+          className="SelectForm"
           required
           value={month}
           onChange={(e) => setMonth(e.target.value)}
@@ -95,6 +96,7 @@ const Search = () => {
           <option value="12">Dezembro</option>
         </select>
         <input
+          className="inputForm"
           type="text"
           required
           value={year}

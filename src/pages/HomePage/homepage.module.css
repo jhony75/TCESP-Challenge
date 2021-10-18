@@ -1,0 +1,12 @@
+@import '../../styles/variables.css';
+
+.Tittle {
+  font-family: var(--titleFont);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.HomePage {
+  font-family: inherit;
+}
